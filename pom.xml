@@ -6,7 +6,7 @@
 
   <groupId>com.democompany</groupId>
   <artifactId>second-demo-project</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>war</packaging>
 
   <name>second-demo-project Maven Webapp</name>
