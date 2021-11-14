@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment{
         PATH = "/opt/apache-maven-3.8.3/bin:$PATH"
-		<!-- maven path , maven should install in jenkins server -->
+		
     }
     stages {
         stage ('Git Clone') {
